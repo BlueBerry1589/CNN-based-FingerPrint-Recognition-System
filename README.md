@@ -1,6 +1,7 @@
 # Fingerprint Recognition System
 
 A complete fingerprint recognition solution based on a Convolutional Neural Network (CNN) with the raspberry pi 5, featuring web integration(apache+php), real-time predictions, and a simple admin dashboard.
+![WhatsApp Image 2025-05-18 at 17 46 00_1c9d0f77](https://github.com/user-attachments/assets/7aff70b3-50d5-4db0-8b94-fdf2919e331b)
 
 ---
 
@@ -169,6 +170,15 @@ pip install -r requirements.txt
 1. Place the PHP file in your Apache server's root directory (e.g., `/var/www/html/`).
 2. Make sure the trained model and Python scripts are accessible and callable from PHP (e.g., using `shell_exec()`).
 3. Launch the web interface from a browser pointing to your Raspberry Pi’s IP.
+
+### Realisation
+dashboard:
+![WhatsApp Image 2025-05-18 at 17 46 00_e88c052d](https://github.com/user-attachments/assets/d3e11611-957c-45e7-b9a9-5d495a3aa1af)
+you need to lick on after the fingerprint is read click on verify identity 
+![WhatsApp Image 2025-05-18 at 17 48 15_0efebe0d](https://github.com/user-attachments/assets/c21ce824-936c-4301-b33f-7a019811dc35)
+the data of the user can be changed in the users.jason file to suit you needs
+![WhatsApp Image 2025-05-18 at 17 49 45_2dd74807](https://github.com/user-attachments/assets/8f370f85-6e0a-43eb-8e0c-837a24d5ac5e)
+
 
 ---
 

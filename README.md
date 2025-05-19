@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fingerprint Recognition System
 
 A complete fingerprint recognition solution based on a Convolutional Neural Network (CNN) with the raspberry pi 5, featuring web integration(apache+php), real-time predictions, and a simple admin dashboard.
@@ -194,7 +193,4 @@ project/
 │ └── users.json
 │ └── dashboard.json
 ```
-=======
-# CNN-based-FingerPrint-Recognition-System
-A complete fingerprint recognition solution based on a Convolutional Neural Network (CNN), featuring web integration, real-time predictions, and a simple admin dashboard.
->>>>>>> 38d7b3c6210f847df05c2c1a2b2047074f521778
+

@@ -1,1 +1,9 @@
-
+{
+    "Example": {
+        "name": "Example name",
+        "picture": "example.jpg",
+        "position": "Software Engineer",
+        "department": "IT Department",
+        "email": "example@brt.com"
+    }
+}
